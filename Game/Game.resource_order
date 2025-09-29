@@ -17,10 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"brick","order":3,"path":"objects/brick/brick.yy",},
-    {"name":"paddle","order":1,"path":"objects/paddle/paddle.yy",},
-    {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
-    {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
-    {"name":"Sprite3","order":4,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Obj_brick","order":3,"path":"objects/Obj_brick/Obj_brick.yy",},
+    {"name":"Obj_paddle","order":1,"path":"objects/Obj_paddle/Obj_paddle.yy",},
+    {"name":"gamescreen","order":1,"path":"rooms/gamescreen/gamescreen.yy",},
+    {"name":"ball","order":1,"path":"sprites/ball/ball.yy",},
+    {"name":"brick","order":3,"path":"sprites/brick/brick.yy",},
+    {"name":"paddle","order":2,"path":"sprites/paddle/paddle.yy",},
   ],
 }
