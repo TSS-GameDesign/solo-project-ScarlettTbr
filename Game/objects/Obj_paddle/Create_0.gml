@@ -10,3 +10,6 @@ if (player == 1)
 	move = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 }
 x = x + (move * spd);
+
+
+image_blend = make_color_rgb(global.red_color,global.green_color,global.blue_color);

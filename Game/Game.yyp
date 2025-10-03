@@ -59,8 +59,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"gamescreen","path":"rooms/gamescreen/gamescreen.yy",},},
     {"roomId":{"name":"homescreen","path":"rooms/homescreen/homescreen.yy",},},
+    {"roomId":{"name":"gamescreen","path":"rooms/gamescreen/gamescreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
