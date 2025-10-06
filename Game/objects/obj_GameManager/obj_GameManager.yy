@@ -1,15 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_ball",
+  "%Name":"obj_GameManager",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_paddle","path":"objects/Obj_paddle/Obj_paddle.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_brick","path":"objects/Obj_brick/Obj_brick.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_ball",
+  "name":"obj_GameManager",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"ball",
-    "path":"sprites/ball/ball.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

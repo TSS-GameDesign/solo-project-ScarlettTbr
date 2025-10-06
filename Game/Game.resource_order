@@ -22,6 +22,7 @@
     {"name":"Obj_clrpink","order":6,"path":"objects/Obj_clrpink/Obj_clrpink.yy",},
     {"name":"Obj_clryellow","order":7,"path":"objects/Obj_clryellow/Obj_clryellow.yy",},
     {"name":"Obj_game","order":8,"path":"objects/Obj_game/Obj_game.yy",},
+    {"name":"obj_GameManager","order":10,"path":"objects/obj_GameManager/obj_GameManager.yy",},
     {"name":"Obj_paddle","order":1,"path":"objects/Obj_paddle/Obj_paddle.yy",},
     {"name":"Obj_startbutton","order":4,"path":"objects/Obj_startbutton/Obj_startbutton.yy",},
     {"name":"Obj_wall","order":9,"path":"objects/Obj_wall/Obj_wall.yy",},
