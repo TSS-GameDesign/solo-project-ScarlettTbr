@@ -4,7 +4,7 @@ row_1 = array_create(5,0);
 row_2 = array_create(5,0);
 row_3 = array_create(5,0);
 
-brick_rows = [row_1, row_2, row_3];
+brick_rows =[row_1, row_2, row_3];
 
 //Create our bricks
 for (index = 0; index < 3; index++;)
@@ -22,3 +22,4 @@ paddle1 = instance_create_layer(320, 32, "Instances" , Obj_paddle,{player: 1});
 
 global.active_player = 0;
 most_recent_player = 0;
+
