@@ -23,3 +23,6 @@ paddle1 = instance_create_layer(320, 32, "Instances" , Obj_paddle,{player: 1});
 global.active_player = 0;
 most_recent_player = 0;
 
+
+
+

@@ -9,3 +9,4 @@ if (player == 1)
 	move = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 }
 x = x + (move * spd);
+
