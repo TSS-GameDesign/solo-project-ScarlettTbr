@@ -1,3 +1,4 @@
+/*
 if ((x < room_width * 0.5) and (vspeed <= 0))
 or ((x > room_width * 0.5) and (vspeed >= 0))
 {
@@ -17,3 +18,4 @@ if (other.player == 0 && global.active_player == 1)
 	global.active_player = 1;
 	show_debug_message("swapped active player to player 0");
 }
+*/
