@@ -1,9 +1,8 @@
-/*
-if ((x > room_width * 0.5) and (vspeed <= 0))
-or ((x < room_width * 0.5) and (vspeed >= 0))
+
+if ((phy_position_x > room_width * 0.5) and (phy_vspeed <= 0))
+or ((phy_position_x < room_width * 0.5) and (phy_vspeed >= 0))
 {
-	vspeed = -vspeed;
+	phy_vspeed = -vspeed;
 }
-hspeed = random_range(3,4);
-direction = random(180);
-*/
+phy_hspeed = random_range(3,4);
+phy_direction = random(180);

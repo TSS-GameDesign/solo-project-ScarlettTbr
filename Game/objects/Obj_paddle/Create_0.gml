@@ -1,4 +1,4 @@
-spd = 10;
+phy_spd = 10;
 //inputs
  
 if (player == 0)
@@ -9,7 +9,7 @@ if (player == 1)
 {
 	move = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 }
-x = x + (move * spd);
+phy_position_x = phy_position_x + (move * phy_spd);
 
 
 image_blend = make_color_rgb(global.red_color,global.green_color,global.blue_color);
