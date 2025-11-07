@@ -2,9 +2,7 @@
   "$GMObject":"",
   "%Name":"Obj_brick",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_paddle","path":"objects/Obj_paddle/Obj_paddle.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_brick",
@@ -22,7 +20,7 @@
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
   "physicsObject":true,
-  "physicsRestitution":0.6,
+  "physicsRestitution":1.0,
   "physicsSensor":false,
   "physicsShape":1,
   "physicsShapePoints":[

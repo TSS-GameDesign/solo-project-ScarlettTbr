@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Obj_deathwall1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Obj_deathwall1",
   "overriddenProperties":[],

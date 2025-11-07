@@ -1,10 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Obj_wall",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Obj_wall",
   "overriddenProperties":[],
@@ -21,7 +18,7 @@
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
   "physicsObject":true,
-  "physicsRestitution":1.7,
+  "physicsRestitution":1.0,
   "physicsSensor":false,
   "physicsShape":1,
   "physicsShapePoints":[
