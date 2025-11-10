@@ -25,7 +25,3 @@ most_recent_player = 0;
 
 global.player1_score = 0;
 global.player0_score = 0;
-
-
-
-

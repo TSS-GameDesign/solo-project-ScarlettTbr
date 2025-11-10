@@ -1,0 +1,1 @@
+physics_apply_force(phy_com_x, phy_com_y, custom_gravity_x, custom_gravity_y);
