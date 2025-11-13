@@ -1,5 +1,8 @@
 
-phy_linear_velocity_x += random_range(-10, 10); 
+if (phy_linear_velocity_x > 5)
+{
+	phy_linear_velocity_x += random_range(-5, 4);
+}
 apply_custom_gravity = true; 
 physics_apply_impulse(x, y, 0, -5); 
 if (global.active_player == 1)
